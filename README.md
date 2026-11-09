@@ -18,8 +18,8 @@ Whether or not I'm configuring Linux VPS environments, writing custom Fabric mod
 
 ### ⚡ Fun Facts
 - Most of my code is fueled by massive 32oz homemade iced lattes.
-- I build competitive Omni-HERO and Blue-Eyes OTK decks in Yu-Gi-Oh! Master Duel.
-- When I'm not coding, I'm probably watching classic sci-fi or listening to DROELOE.
+- I love monster catching games! 
+- When I'm not coding, I'm probably spending time with my family or listening to DROELOE.
 
 ---
 📫 **Reach me at:** _ozzybp31@gmail.com_ **or on Discord:** @_thepixelmonchampion_
