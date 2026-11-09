@@ -18,8 +18,8 @@ Whether or not I'm configuring Linux VPS environments, writing custom Fabric mod
 
 ### ⚡ Fun Facts
 - Most of my code is fueled by massive 32oz homemade iced lattes.
-- I love monster catching games! 
-- When I'm not coding, I'm probably spending time with my family. ❤️
+- I love monster catching games! (╯°□°)╯︵◓
+- When I'm not coding, I'm probably spending time with my family or asleep. ❤️
 
 ---
 📫 **Reach me at:** _ozzybp31@gmail.com_ **or on Discord:** @_thepixelmonchampion_
